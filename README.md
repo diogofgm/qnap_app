@@ -1,1 +1,1 @@
-# qnap_app
+# QNAP App for Splunk
