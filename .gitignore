@@ -3,3 +3,4 @@ local.meta
 .vscode/
 addon_builder.conf
 build/
+qnap_devices.csv
