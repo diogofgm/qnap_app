@@ -7,10 +7,13 @@ QNAP App for Splunk
 ===================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-
+   releasenotes
+   requirements
+   installation
+   support
 
 Indices and tables
 ==================
