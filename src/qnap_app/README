@@ -1,0 +1,25 @@
+# QNAP App for Splunk
+
+## System requirements
+- QES 2.0.0 or newer 
+- Splunk 7.0 or newer
+- QNAP Add-on for Splunk 0.1.0 or newer
+
+## Installation
+Install this app on: 
+Search Heads - The app contains dashboards and reports 
+
+## Configuration
+### Splunk
+- Edit the `qnap_index` macro (Setting >> Advance Search >> Search Macros) with the appropriate index where your QNAP data is being stored.
+
+## Troubleshooting
+
+
+## Support
+You can file bug reports on our [GitHub issue tracker](https://github.com/diogofgm/qnap_app/issues) and they will be addressed as soon as possible.
+**Support is a volunteer effort** and there is no guaranteed response time.
+
+
+## Online documentation
+http://qnap-app.readthedocs.org
