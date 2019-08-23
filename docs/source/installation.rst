@@ -3,7 +3,7 @@ Installation
 ============
 
 Install the QNAP App for Splunk
-==================================
+===============================
 - Get the QNAP Add-on for Splunk by downloading it from `Splunkbase`_ or browsing to it using the app browser within Splunk Web.
 - Determine where and how to install this app in your deployment, using the tables on this page.
 - Perform any prerequisite steps before installing, if required and specified in the tables below.
@@ -15,7 +15,7 @@ Distributed deployments
 Reference the tables below to determine where and how to install this app in a distributed deployment of Splunk Enterprise or any deployment for which you are using forwarders to get your data in. Depending on your environment, your preferences, and the requirements of the app, you may need to install the app in multiple places. 
 
 Where to install this app
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 Unless otherwise noted, all supported apps can be safely installed to all tiers of a distributed Splunk platform deployment. See `Where to install Splunk add-ons`_ in Splunk Add-ons for more information.
 
 This table provides a reference for installing this specific app to a distributed deployment of Splunk Enterprise. 
