@@ -18,8 +18,8 @@ Unless otherwise noted, all supported apps can be safely installed to all tiers 
 
 This table provides a reference for installing this specific app to a distributed deployment of Splunk Enterprise.
 
-| Splunk platform component | Supported | Required | Comments |
-| ------------------------- | --------- | -------- | -------- |
+| Splunk platform component | Supported | Required | Comments
+| ------------------------- | --------- | -------- | --------
 | Search Heads              | Yes       | Yes      | Install this app to all search heads.
 | Indexers                  | No        | No       |
 | Heavy Forwarders          | No        | No       |
@@ -29,10 +29,11 @@ This table provides a reference for installing this specific app to a distribute
 
 This table provides a quick reference for the compatibility of this app with Splunk distributed deployment features.
 
-Distributed deployment feature|Supported|Comments
-Search Head Clusters|Yes|You can install this app on a search head cluster for all search-time functionality.
-Indexer Clusters|No|
-Deployment Server|Yes|Supported for deploying via Deployment server
+| Distributed deployment feature | Supported | Comments
+| ------------------------------ | --------- | --------
+| Search Head Clusters           | Yes       | You can install this app on a search head cluster for all search-time functionality.
+| Indexer Clusters               | No        |
+| Deployment Server              | Yes       | Supported for deploying via Deployment server
 
 ## Installation walkthroughs
 
