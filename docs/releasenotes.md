@@ -1,3 +1,8 @@
+---
+layout: default
+title: Release Notes
+nav_order: 2
+---
 # Release Notes
 
 ## v0.1.0 - August 2019

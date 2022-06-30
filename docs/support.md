@@ -1,3 +1,8 @@
+---
+layout: default
+title: Support
+nav_order: 5
+---
 # Support
 
 ## Bugs & Support Issues

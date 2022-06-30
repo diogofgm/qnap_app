@@ -1,3 +1,8 @@
+---
+layout: default
+title: Requirements
+nav_order: 3
+---
 # Requirements
 
 - QES 2.0.0 or newer
