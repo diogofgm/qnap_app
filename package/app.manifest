@@ -37,7 +37,7 @@
     "releaseNotes": {
       "name": "README",
       "text": "README",
-      "uri": "https://qnap_app.readthedocs.io/en/latest/releasenotes.html"
+      "uri": "https://diogofgm.github.io/qnap_app/releasenotes.html"
     }
   },
   "dependencies": null,
