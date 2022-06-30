@@ -18,9 +18,6 @@ Unless otherwise noted, all supported apps can be safely installed to all tiers 
 
 This table provides a reference for installing this specific app to a distributed deployment of Splunk Enterprise.
 
-.. list-table::
-   :header-rows: 1
-
 Splunk platform component|Supported|Required|Comments
 Search Heads|Yes|Yes|Install this app to all search heads.
 Indexers|No|No|
